@@ -1,0 +1,7 @@
+# never commit game files or saves
+EDIT*
+ML0*
+LG0*
+*.bin
+*.exe
+*.zip
